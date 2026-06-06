@@ -28,6 +28,10 @@ body {
   margin-bottom: 0.5em;
   font-size: 3em;
   color: #53320D;
+   text-decoration-line: underline;
+  text-decoration-color: #EB9C04; /* Sets the color */
+  text-underline-offset:  0.15em;      /* Sets the distance from text */
+  text-decoration-thickness: .1em; /* Optional: Sets the thickness */
 }
 
 .container p {
